@@ -1,0 +1,3 @@
+USAR HERRAMIENTA HAPI, POSTMAN, MONGO DB 
+CREAR UN SERVICIO REST y luego buscar de consumirlo
+
